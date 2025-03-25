@@ -55,7 +55,3 @@ To extract names efficiently, the program:
 - **Version 3** had more complexity, requiring additional logic for extraction.
 
 ---
-
-## 📂 Repository Structure
-
-📁 API_Assignment_Solutions │── 📜 api-assignment-V1.ipynb # Code for Version 1 │── 📜 api-assignment-V2.ipynb # Code for Version 2 │── 📜 api-assignment-V3.ipynb # Code for Version 3 │── 📜 version1_extracted_names.txt # Names extracted from V1 │── 📜 version2_extracted_names.txt # Names extracted from V2 │── 📜 version3_extracted_names.txt # Names extracted from V3 │── 📜 README.md # Documentation
