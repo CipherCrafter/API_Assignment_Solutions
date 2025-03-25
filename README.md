@@ -34,11 +34,6 @@ To extract names efficiently, the program:
 4. **Handles API Limitations**:
  - Implements **rate limit handling** (delays between requests).
 
-### 3️⃣ Handling Rate Limits & Constraints
-- **Adaptive Request Timing**: Introduced delays to prevent throttling.
-- **Parallel Requests**: Used multiprocessing/threading where possible.
-- **Efficient Query Expansion**: Avoids unnecessary requests by tracking visited prefixes.
-
 ---
 
 ## 📊 Results
